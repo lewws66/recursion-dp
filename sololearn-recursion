@@ -1,4 +1,4 @@
-/*   Sololearn Functions: Calling recursive functions
+/*   Problem set in Sololearn Functions: Calling recursive functions
 Pastry chefs are competing to win the battle of the cakes. For each additional cake made, 
 the number of eggs required increases by 1 (1 egg for the first cake, 2 eggs for the second, etc.).
 Take the number of cakes that must be baked as the input, 
